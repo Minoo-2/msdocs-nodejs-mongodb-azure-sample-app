@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'msdocs-expressjs-mongodb-MMK'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9ACE1CEF1604413D85ACE191A454FE40 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00A271E334FF418F9064CFCCEBB6A7DD }}
           package: .
